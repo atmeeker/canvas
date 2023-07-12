@@ -5,7 +5,7 @@ body {
   overflow-x: hidden;
 }
 
-li {
+ul {
   font-family: 'Roboto', sans-serif;
   color: #2B2B2B;
   background-color: #ffffff;
