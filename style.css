@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
   color: #3D3D3D;
   background-color: #ffffff;
   overflow-x: hidden;
@@ -20,7 +20,7 @@ h2 {
 }
 
 p {
-  font-size: 14px;
+  font-size: 12px;
 }
 /* unvisited link */
 a:link {
