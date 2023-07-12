@@ -9,7 +9,7 @@ ul {
   font-family: 'Roboto', sans-serif;
   color: #2B2B2B;
   background-color: #ffffff;
-  overflow-x: hidden;
+  font-size: 14px;
 }
 
 h1 {
