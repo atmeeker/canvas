@@ -5,6 +5,13 @@ body {
   overflow-x: hidden;
 }
 
+li {
+  font-family: 'Roboto', sans-serif;
+  color: #2B2B2B;
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
+
 h1 {
   font-size: 32px;
 }
