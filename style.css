@@ -1,0 +1,39 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #2B2B2B;
+  background-color: #ffffff;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 14px;
+}
+/* unvisited link */
+a:link {
+  color: #003087;
+}
+
+/* visited link */
+a:visited {
+  color: #003087;
+}
+
+/* mouse over link */
+a:hover {
+  color: #0076A8;
+}
+
+/* selected link */
+a:active {
+  color: #0076A8;
+}
+
+/*# sourceMappingURL=style.css.map */
