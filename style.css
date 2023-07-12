@@ -6,10 +6,9 @@ body {
 }
 
 ul {
-  font-family: 'Roboto', sans-serif;
-  color: #2B2B2B;
-  background-color: #ffffff;
-  font-size: 14px;
+font:15px "Roboto",san-serif;
+}
+
 }
 
 h1 {
