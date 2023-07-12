@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
-  color: #2B2B2B;
+  color: #3D3D3D;
   background-color: #ffffff;
   overflow-x: hidden;
 }
@@ -41,5 +41,6 @@ a:hover {
 a:active {
   color: #0076A8;
 }
+
 
 /*# sourceMappingURL=style.css.map */
