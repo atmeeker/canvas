@@ -1,12 +1,12 @@
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   color: #3D3D3D;
   background-color: #ffffff;
   overflow-x: hidden;
 }
 
 ul {
-font:15px "Roboto",san-serif;
+font:15px "Lato",san-serif;
 }
 
 }
